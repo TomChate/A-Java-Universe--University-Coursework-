@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=objectDiamter\ xPos\ yPos\ starColor\ theUniverse
+comment0.target=Star(int,\ int,\ int,\ java.awt.Color,\ Universe)
+comment0.text=\r\n\ @param\ objectDiameter\ the\ diameter\ of\ the\ object.\r\n\ @param\ xPos\ the\ x\ coordinate\ of\ the\ object.\r\n\ @param\ yPos\ the\ y\ corrdinate\ of\ the\ object.\r\n\ @param\ Color\ the\ colour\ of\ the\ object.\r\n\ @param\ Universe\ the\ universe\ in\ which\ the\ object\ is\ present\ in.\r\n
+comment1.params=
+comment1.target=int\ getXPosition()
+comment1.text=\r\n\ return\ the\ horizontal\ position\ of\ this\ object\r\n
+comment2.params=
+comment2.target=int\ getYPosition()
+comment2.text=\r\n\ return\ the\ vertical\ position\ of\ this\ object\r\n
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=\r\n\ return\ the\ colour\ of\ this\ object\r\n
+comment4.params=
+comment4.target=int\ getDiameter()
+comment4.text=\r\n\ return\ the\ diameter\ of\ this\ object\r\n
+comment5.params=
+comment5.target=int\ getRadius()
+comment5.text=\r\n\ return\ the\ radius\ ter\ of\ this\ object\r\n
+numComments=6

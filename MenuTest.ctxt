@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MenuTest()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ MenuTest\r\n
+comment1.params=
+comment1.target=void\ Input_Test()
+comment1.text=\r\n\ Tests\ to\ check\ if\ it\ gets\ user\ input\ correctly.\r\n
+numComments=2

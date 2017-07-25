@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=objectDiamter\ xPos\ yPos\ theUniverse
+comment0.target=Black_Hole(int,\ int,\ int,\ Universe)
+comment0.text=\r\n\ @param\ objectDiameter\ this\ is\ the\ diameter\ of\ the\ object.\r\n\ @param\ xPos\ this\ is\ the\ x\ Position\ of\ the\ object.\r\n\ @param\ yPos\ this\ is\ the\ y\ Position\ of\ the\ object.\r\n\ @param\ Universe\ this\ is\ which\ universe\ the\ object\ is\ present\ in.\r\n\ The\ color\ is\ preset\ to\ Black.\r\n
+comment1.params=
+comment1.target=int\ getXPosition()
+comment1.text=\r\n\ Returns\ the\ x\ coords\ of\ the\ object.\r\n
+comment2.params=
+comment2.target=int\ getYPosition()
+comment2.text=\r\n\ return\ the\ vertical\ position\ of\ this\ object\r\n
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=\r\n\ return\ the\ colour\ of\ this\ object\r\n
+comment4.params=
+comment4.target=int\ getDiameter()
+comment4.text=\r\n\ return\ the\ diameter\ of\ this\ object\r\n
+comment5.params=
+comment5.target=int\ getRadius()
+comment5.text=\r\n\ return\ the\ radius\ of\ the\ object.\r\n
+numComments=6
